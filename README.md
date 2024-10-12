@@ -1,7 +1,8 @@
-### Hi there 👋
-This is @Shaikh Rukhsar a Computer Sci Grad 🌱 I’m currently learning Django and working on front end projects.
-- 📫 How to reach me:👇
+🎓 I’m a Computer Science Graduate passionate about technology, cloud computing, and artificial intelligence.
+🌥️ Currently exploring cloud technologies and enhancing my skills in AWS and AI tools while working on projects that focus on cloud-based solutions.
 
-Linkedin:-https://www.linkedin.com/in/shaikh-rukhsar-007b3716b
-
-Twitter:-https://twitter.com/bowdowntoqueenn?t=dmYPJPYuwyq_tm5hyAb6LA&s=08
+📫 How to Reach Me
+LinkedIn: Shaikh Rukhsar
+Twitter: @bowdowntoqueenn
+🌟 Open to Opportunities
+I’m always open to learning new things and collaborating on exciting projects in the tech, cloud computing, and AI domains. Don’t hesitate to reach out!
